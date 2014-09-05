@@ -1,0 +1,9 @@
+name: PlotMeNPC
+main: com.Grim.PlotMeNPC.Main
+author: Grim
+version: 0.1
+commands:
+    plotmenpc:
+        permission: plotmenpc.npc
+    plotmenu:
+        permission: plotmenpc.menu
